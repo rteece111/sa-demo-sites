@@ -1,2 +1,2 @@
-# sa-demo-sites
-Fictional demo business sites for Site Attendant testing
+# SA demo sites
+Fictional businesses for Site Attendant crawl/chat testing. Not real businesses.

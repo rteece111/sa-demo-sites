@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sa-demo-plumber.onrender.com/sitemap.xml

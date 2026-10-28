@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sa-demo-salon.onrender.com/sitemap.xml
